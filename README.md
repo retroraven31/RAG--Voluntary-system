@@ -9,6 +9,12 @@ This repository provides a **comprehensive implementation of Retrieval-Augmented
 4. **LLM Integration:** Combine retrieved data with **Google Gemini Pro**, **PaLM 2**, or **other Google-supported LLMs** to generate context-aware responses.  
 5. **Response Generation:** The LLM synthesizes retrieved knowledge into a **coherent, factually accurate, and context-rich answer**.  
 
+### **WorkFlow / Pipeline**
+![image](https://github.com/user-attachments/assets/447456b3-3402-4d28-9b39-0e84a9770d23)
+
+
+
+
 ### **Tech Stack & Tools**  
 - **LLMs:** Google **Gemini Pro**, **PaLM 2**  
 - **Vector Database:** **Google Vertex AI Matching Engine** for scalable embedding storage  
@@ -29,3 +35,4 @@ This repository provides:
 ✅ **Google Cloud deployment guides** for scalable implementations.  
 
 Ideal for **chatbots, enterprise search, customer support automation, and AI-driven knowledge assistants**. 🚀
+
